@@ -1,2 +1,2 @@
 # PYTHON
-Linguagem Python: Codificações
+Projetos em Python
