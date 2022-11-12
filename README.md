@@ -1,2 +1,2 @@
 # PYTHON
-Projetos em Python
+Projetos em Python para uso pessoal a fim de facilitar algumas tarefas
